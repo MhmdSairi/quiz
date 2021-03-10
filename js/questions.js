@@ -13,18 +13,18 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "First dating dimana?",
+    answer: "Upnormal",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Jumpa Square",
+      "Dutamall",
+      "ShareTea",
+      "Upnormal"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
+    question: "S?",
     answer: "Hypertext Preprocessor",
     options: [
       "Hypertext Preprocessor",
