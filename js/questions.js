@@ -24,35 +24,35 @@ let questions = [
   },
     {
     numb: 3,
-    question: "S?",
-    answer: "Hypertext Preprocessor",
+    question: "Kejadian awal first dating?",
+    answer: "Kehujanan",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Hilang kunci",
+      "Kehujanan",
+      "Salah motor",
+      "Ketinggalan HP"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Siapa yang taken duluan?",
+    answer: "Tidak ada yang taken",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Nadila",
+      "Paman parkir",
+      "Sairi",
+      "Tidak ada yang taken"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Berapa tanggal+bulan lahir kita?",
+    answer: "7-juni & 7-okt",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "7-juni & 7-okt",
+      "7-juli & 7-okt",
+      "7-mei & 7-juni",
+      "7-okt & 7-april"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
