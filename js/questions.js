@@ -2,13 +2,13 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Kapan tanggal jadian kita?",
+    answer: "13-DESEMBER-2020",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "10-MARET-2020",
+      "7-JUNI-2020",
+      "13-DESEMBER-2020",
+      "15-MEI-2020"
     ]
   },
     {
